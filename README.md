@@ -1,5 +1,6 @@
-# Abisoye Onanuga
-Making digital-art more procedural. Likes computer graphics. Cares about design. | Previous: design lead, graphic designer | Oxford School of Architecture alum
+# Abisoye
+
+Making digital-art more procedural. Likes computer graphics. Cares about design.
 
 ## About
 
@@ -9,15 +10,13 @@ Making digital-art more procedural. Likes computer graphics. Cares about design.
 
 ## Background
 
-### Professional
+### Professional titles held
 
-**Gradient Spaces** - Design Lead
-
-**Freelance** - Graphic Designer
+- Design Lead, Graphic Designer
 
 ### Education
 
-**Oxford Brookes University** - Architecture
+- Oxford School of Architecture
 
 ## Links
 
