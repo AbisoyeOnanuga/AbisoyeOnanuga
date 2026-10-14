@@ -1,6 +1,5 @@
 # Abisoye Onanuga
-
-Ex-Design lead and a pre-Figma era graphic designer, Oxford School of Architecture alum. Makes digital-art procedural. Likes computer graphics.
+Making digital-art more procedural. Likes computer graphics. Cares about design. | Previous: design lead, graphic designer | Oxford School of Architecture alum
 
 ## About
 
