@@ -1,19 +1,23 @@
 # Abisoye Onanuga
 
-Architecture graduate and former design lead, working in procedural modelling, scripting, and computer graphics.
+Design lead and a pre-Figma era graphic designer, Oxford School of Architecture alum, working in procedural 3D modelling, scripting, with a love for computer graphics.
 
 ## About
 
 - Interested in procedural modelling tools, scripting, and computer graphics
-- Currently learning how to learn
+- Currently learning User Experience Design, RAG AI application development.
+- Marathon 3:22:18
 
 ## Background
 
-**Oxford Brookes University** — Architecture  
-September 2015 – August 2020
-
 **Gradient Spaces** — Design Lead  
 October 2022 – December 2023
+
+**Freelance** — Graphic Designer  
+July 2014 – December 2020
+
+**Oxford Brookes University** — Architecture  
+September 2015 – August 2020
 
 ## Links
 
