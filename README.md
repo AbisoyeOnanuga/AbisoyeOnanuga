@@ -6,7 +6,6 @@ Making digital-art more procedural. Likes computer graphics. Cares about design.
 
 - Interested in procedural modelling tools, scripting, and computer graphics
 - Currently learning User Experience Design, RAG for Generative AI applications, and Game Design.
-- Almost figured out what MCP and Harness do
 - Can run 2 half-marathons back-2-back
 
 ## Background
